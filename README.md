@@ -1,5 +1,5 @@
 
-# 📊 PPT Generator – Auto-Generate a Presentation from Text
+# 📊DeckSmith AI- AI-Powered Presentation Generator(Auto-Generate a Presentation from Text)
 
 **Your Text, Your Style – Turn bulk text or markdown into a polished PowerPoint presentation.**
 
